@@ -1,0 +1,7 @@
+.header__nav-link {
+  background-color: transparent;
+  border: none;
+}
+.header__nav-item:last-child {
+  margin-bottom: 0;
+}
