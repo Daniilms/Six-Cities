@@ -8,6 +8,10 @@ This site shows different rent options near Amsterdam.
 
 This application is finished.
 
+## Live version
+
+https://six-cities-five-zeta.vercel.app/
+
 ## Running localy
 
 ### Local server
